@@ -1299,6 +1299,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [VarHandler](https://github.com/azr/generators/tree/master/varhandler) - Generate boilerplate http input and output handling.
 * [xdg](https://github.com/rkoesters/xdg) - FreeDesktop.org (xdg) Specs implemented in Go.
 * [xkg](https://github.com/go-xkg/xkg) - X Keyboard Grabber.
+* [Shrug](https://github.com/TheYahya/shrug) - Modern, simple and minimal URL Shortener.
 
 ## Natural Language Processing
 
